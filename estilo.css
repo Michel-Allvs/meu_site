@@ -1,0 +1,42 @@
+.titulo{
+    text-align: center;
+    color: beige;
+}
+.body{
+    background-color: rgb(173, 159, 141);
+}
+.para{
+  font-size: 25px;
+  text-align: justify;
+}
+.minha_lista li{
+    margin: 20px;
+}
+.imagem{
+    border-radius: 10%;
+    width: 150px;
+    height: 150px;
+}
+.tabela tr{
+    border: 2px solid;
+}
+.tabela td{
+    border: 2px solid;
+}
+.a{
+    color: rgb(37, 37, 173);
+      text-decoration: none;
+      transition: color 0.4s ease;
+
+}
+.a:hover{
+ color: rgb(239, 4, 4);
+}
+   
+
+.mensagem{
+      display: none;
+      color: blue;
+      margin-top: 10px;
+    }
+
